@@ -1,0 +1,12 @@
+pr_compliances:
+  - title: "Best Practice Item 1 Compliance"
+    compliance_label: true
+    objective: "Code must follow best practice item #1 from best_practices.md"
+    success_criteria: "Code adheres to the specific guideline from item 1"
+    failure_criteria: "Code violates the guideline specified in best practice item 1"
+  
+  - title: "Best Practice Item 2 Compliance"
+    compliance_label: true
+    objective: "Code must follow best practice item #2 from best_practices.md"
+    success_criteria: "Code follows the pattern described in item 2"
+    failure_criteria: "Code does not follow the pattern from best practice item 2"
