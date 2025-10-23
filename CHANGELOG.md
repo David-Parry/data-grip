@@ -1,3 +1,8 @@
+## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/10)
+
+### Changed
+- Consolidated database changes, noting non-idempotent schema behaviors and rerun risks
+
 ## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/9)
 
 ### Added
