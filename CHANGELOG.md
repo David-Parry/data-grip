@@ -1,3 +1,9 @@
+## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/9)
+
+### Added
+- Non-idempotent schema script with migration tracking and recipe-related tables
+- Notes on rerun risks and indexing/ownership considerations
+
 ## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/8)
 
 ### Changed
