@@ -1,3 +1,8 @@
+## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/7)
+
+### Changed
+- Refined database schema approach, noting non-idempotent behaviors and potential rerun risks
+
 ## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/6)
 
 ### Changed
