@@ -1,3 +1,8 @@
+## 2025-10-23 [*](https://github.com/David-Parry/data-grip/pull/6)
+
+### Changed
+- Introduced initial database schema script with non-idempotent operations and ownership/index updates
+
 ## 2025-08-01 [*](https://github.com/David-Parry/data-grip/pull/1)
 
 ### Added
