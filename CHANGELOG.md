@@ -1,3 +1,9 @@
+## 2025-11-02 [*](https://github.com/David-Parry/data-grip/pull/14)
+
+### Added
+- Initial database schema and migration tracking with recipe-related tables
+- Notes on non-idempotent operations and rerun limitations
+
 ## 2025-11-02 [*](https://github.com/David-Parry/data-grip/pull/13)
 
 ### Changed
