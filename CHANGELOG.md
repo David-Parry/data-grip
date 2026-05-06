@@ -1,3 +1,8 @@
+## 2026-05-06 [*](https://github.com/David-Parry/data-grip/pull/15)
+
+### Added
+- Initial SQL migration to bootstrap the recipe management database schema and Flyway migration tracking
+
 ## 2025-08-01 [*](https://github.com/David-Parry/data-grip/pull/2)
 
 ### Added
